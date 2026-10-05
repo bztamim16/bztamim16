@@ -9,7 +9,6 @@ I'm a systems engineer with a Master's in Computer Science 🎓 from DePaul Univ
 - 🏗️ Day to day: Microsoft 365, Active Directory / Entra ID, VMware, SAN/NAS, backup & disaster recovery, MFA, and RMM tooling
 - ⚙️ I care about automation, reproducible infrastructure, and pipelines that make deploys boring
 - 🔭 Building: cloud infrastructure with Terraform on AWS, CI/CD with GitHub Actions, and monitoring for real services
-- 📚 Certifications in progress: CompTIA Network+, AZ-900
 - 📫 tamimfaisal89@gmail.com · [LinkedIn](https://www.linkedin.com/in/tamim-bayazeed-0798a1191/)
 
 ## 🛠 Tech Stack
