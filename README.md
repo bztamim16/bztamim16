@@ -15,19 +15,22 @@ I'm a systems engineer with a Master's in Computer Science 🎓 from DePaul Univ
 ## 🛠 Tech Stack
 
 ### **Cloud & Identity**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ### **Infrastructure & Virtualization**
-![VMware](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **CI/CD & Containers**
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **Infrastructure as Code**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+### **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### **Automation & Scripting**
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### **Currently Learning**
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 <!--
 ## 🚀 Featured Projects
